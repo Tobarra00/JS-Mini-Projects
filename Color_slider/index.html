@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Color slider</title>
+</head>
+<body>
+    <div class="container">
+        <div id="red-container">
+            <label for="red">Color (R)</label>
+            <input type="range" name="red" class="color" id="red" min="0" max="255" value="255" data-target="color-p-r">
+            <p id="color-p-r">255</p>
+        </div>
+        <div id="green-container">
+            <label for="green">Color (G)</label>
+            <input type="range" name="green" class="color" id="green" min="0" max="255" value="255" data-target="color-p-g">
+            <p id="color-p-g">255</p>
+        </div>
+        <div id="blue-container">
+            <label for="blue">Color (B)</label>
+            <input type="range" name="blue" class="color" id="blue" min="0" max="255" value="255" data-target="color-p-b">
+            <p id="color-p-b">255</p>
+        </div>
+       
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
