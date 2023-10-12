@@ -22,13 +22,16 @@
     <h2>Projects</h2>
     <h3>1. Color Changer</h3>
     <p><strong>Description:</strong> This project allows you to change the background color of the web page by clicking a button. It's a simple way to understand how to interact with the DOM in JavaScript and how to dynamically manipulate CSS styles.</p>
-    <p><strong>Directory:</strong> <a href="/Color_changer">color-changer</a></p>
+    <p><strong>Directory:</strong>Code for <a href="/Color_changer">color-changer</a></p>
+    https://tobarra00.github.io/JS-Mini-Projects/Color_changer/
     <h3>2. Color Slider</h3>
     <p><strong>Description:</strong> In this project, you'll find a color slider that lets you adjust the background color of the page using the slider's position. It's an example of how you can use input events to control page elements.</p>
-    <p><strong>Directory:</strong> <a href="/Color_slider">color-slider</a></p>
+    <p><strong>Directory:</strong>Code for <a href="/Color_slider">color-slider</a></p>
+    https://tobarra00.github.io/JS-Mini-Projects/Color_slider/
     <h3>3. To-Do List</h3>
     <p><strong>Description:</strong> This project uses Bootstrap to create an interactive to-do list. You can add, mark as completed, and remove tasks from your list. It's also an example of how to use Bootstrap.</p>
-    <p><strong>Directory:</strong> <a href="/ToDoList">todo-list</a></p>
+    <p><strong>Directory:</strong>Code for <a href="/ToDoList">todo-list</a></p>
+    https://tobarra00.github.io/JS-Mini-Projects/ToDoList/
     <h2>Usage Instructions</h2>
     <p>Each project is located in its respective directory. You can clone this repository and open the HTML files in your browser to try out the projects. If you want to explore or modify the code, you can open the HTML, CSS, and JavaScript files in your code editor.</p>
     <p>Have fun exploring these small projects!</p>
